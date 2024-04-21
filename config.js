@@ -13,7 +13,7 @@ global.gurl = 'https://653d199bb6634.site123.me/' // add your username
 global.sudo = process.env.SUDO || '212631793409'
 global.devs = '212631793409';
 global.website = 'https://chat.whatsapp.com/H7lNIia7rsaDcYSNWrtTGI' //wa.me/+212631793409
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/ab4018d27c9929dc12595.jpg'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/b7d2731ed33de43e739c2.png'
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? '*『𖤍┇𝐸𝐿𝑆𝐴 𝐵𝑂𝑇-𝑀𝐷┇𖤍』*' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? '𝗟𝗘𝗟𝗢𝗨𝗖𝗛' : process.env.OWNER_NAME,
