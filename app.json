@@ -1,14 +1,14 @@
 {
   "name": "ELSA_BOT-V2",
-  "description": "تم تطرير البوت بواسطه الجزار وايتاتشي♥️",
-  "logo": "https://telegra.ph/file/24bb9841a79d8b45e8441.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "ELSA", "ELGAZAR","Elsa","theme bot","multi device","baileys","elsa"],
+  "description": "تم تطرير البوت بواسطه لولوش♥️",
+  "logo": "https://telegra.ph/file/b7d2731ed33de43e739c2.png",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "Lelouch", "LELOUCH","Lelouch","theme bot","multi device","baileys","Lelouch"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "اسم المطور",
-      "value": "𝐄𝐋𝐆𝐀𝐙𝐀𝐑 ❄️&𝐈𝐓𝐀𝐂𝐇𝐈 👑"
+      "value": "𝗟𝗘𝗟𝗢𝗨𝗖𝗛"
   },
     "AUTO_STATUS_SAVER": {
       "description": "لا تغيره.",
@@ -28,7 +28,7 @@
 },
    "THUMB_IMAGE": {
     "description": "صوره البوت.",
-     "value": "https://telegra.ph/file/ab4018d27c9929dc12595.jpg"
+     "value": "https://telegra.ph/file/b7d2731ed33de43e739c2.png"
     },
     "ANTI_BAD_WORD": {
     "description": "لا تغيره",
@@ -64,7 +64,7 @@
   },
   "OWNER_NUMBER": {
     "description": "رقم المطور يمكن اضافه اكثر من مطور وافصلهم بـ \",\")",
-       "value": "201098906252"
+       "value": "212631793409"
   },
    "SESSION_ID": {
     "description": "كود الجلسه احصل عليه من هنا https://elsa-bott.netlify.app"
@@ -93,7 +93,7 @@
   },
   "PACK_INFO": {
     "description": "حقوق الملصقات.",
-     "value": "ELSA;MD",
+     "value": "*『𝙻𝙴𝙻𝙾𝚄𝙲𝙷𖤍』*",
      "required": false 
   },
   "heroku": {
