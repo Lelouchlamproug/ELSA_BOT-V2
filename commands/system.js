@@ -148,18 +148,18 @@ cmd({
         async(Void, citel, text, isAdmins) => {
             let alivemessage = Config.ALIVE_MESSAGE || `بـوتـه الـسـا بـالـخـدمـه`
             const alivtxt = `
-*❄️⃝🧚‍♀️مـرحـبـا┇ ${citel.pushName}*
-*❄️⃝🧚‍♀️انــا┇ ${tlang().title}*
+*💫⃝💫مـرحـبـا┇ ${citel.pushName}*
+*💫⃝💫انــا┇ ${tlang().title}*
 ${alivemessage}
 *❋─═━•┇❄️┇•━═─❋*
-*❄️⃝🧚‍♀️الاصـدار┇ v1*
-*❄️⃝🧚‍♀️مـده الـتـشـغـيـل┇ ${runtime(process.uptime())}*
-*❄️⃝🧚‍♀️الـمـطـور┇ ${Config.ownername}_
-*❄️⃝🧚‍♀️الـفـرع┇ ${Config.BRANCH}*
+*💫⃝💫الاصـدار┇ v1*
+*💫⃝💫مـده الـتـشـغـيـل┇ ${runtime(process.uptime())}*
+*💫⃝💫الـمـطـور┇ ${Config.ownername}_
+*💫⃝💫الـفـرع┇ ${Config.BRANCH}*
 *❋─═━•┇❄️┇•━═─❋*
-*❄️⃝🧚‍♀️اكـتـب .الاوامر لـظـهـور اوامـر الـبـوت*
+*💫⃝💫اكـتـب .الاوامر لـظـهـور اوامـر الـبـوت*
 
-*❄️⃝🧚‍♀️صـنـع بـواسـطـه┇ ${Config.ownername}*
+*💫⃝💫صـنـع بـواسـطـه┇ ${Config.ownername}*
 `;
             let aliveMessage = {
                 image: {
