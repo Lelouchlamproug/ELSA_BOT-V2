@@ -1,8 +1,8 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Elgazar",
-    "theme": "ELSA-MD",
-    "LANGUAGE": "elsabot2",
+    "AUTHOR": "𝖫𝖤𝖫𝖮𝖴𝖢𝖧",
+    "theme": "𝖫𝖤𝖫𝖮𝖴𝖢𝖧-MD",
+    "LANGUAGE": "𝖫𝖤𝖫𝖮𝖴𝖢𝖧𝖡𝖮𝖳2",
     "LANGCODE": "ar",
     "STRINGS": { 
         "updater": { 
@@ -11,9 +11,9 @@
             "UPDATED_LOCAL": "*اتركه كما هو"
         }, 
         "global": {     
-            "botName": "*『❄️┇❆ 𝐸𝐿𝑆𝐴 𝐵𝑂𝑇-𝑀𝐷 ❆┇❄️』*",
-            "body": "بوت واتساب عربي", 
-            "greet2" : "شكرا للمطور الجزار",
+            "botName": "*『𖤍┇𝐿𝐸𝐿𝑂𝑈𝐶𝐻 𝐵𝑂𝑇-𝑀𝐷┇𖤍』*",
+            "body": "بوت واتساب عربي"
+            "greet2" : "شكرا للمطور لولوش",
             "pic1": "https://telegra.ph/file/24bb9841a79d8b45e8441.jpg", 
             "pic2": "https://telegra.ph/file/24bb9841a79d8b45e8441.jpg", 
             "pic3": "https://telegra.ph/file/24bb9841a79d8b45e8441.jpg", 
@@ -22,7 +22,7 @@
             "pic6": "https://telegra.ph/file/24bb9841a79d8b45e8441.jpg", 
             "pic7": "https://telegra.ph/file/24bb9841a79d8b45e8441.jpg",
             "greet" : "Believe it",
-            "dotbody" : "قررت ان اكون السا بوت",
+            "dotbody" : "قررت ان اكون لولوش بوت",
             "emojii" : "🍑", 
             "promote": "تم رفع البوت ادمن",
             "pmallow": "مرحبًا، هذه معلومات Elsa Tech Info\n لقد تم حظرك بسبب إرسال بريد عشوائي.\n\n _Powered by Elsa Tech Info_",
@@ -33,9 +33,9 @@
             "antlink": "اتركه كما هو",
             "session": "\nاتركه كما هو",
             "mention": " اتركه كما هو",
-            "title": "*『❄️┇❆ 𝐸𝐿𝑆𝐴 𝐵𝑂𝑇-𝑀𝐷 ❆┇❄️』*",
-            "footer": "𝐄𝐋𝐆𝐀𝐙𝐀𝐑 ❄️&𝐈𝐓𝐀𝐂𝐇𝐈 👑",
-            "by": "Made by: Elgazar Tech Info",
+            "title": "*『𖤍┇𝐿𝐸𝐿𝑂𝑈𝐶𝐻 𝐵𝑂𝑇-𝑀𝐷┇𖤍』*",
+            "footer": "𝗟𝗘𝗟𝗢𝗨𝗖𝗛",
+            "by": "Made by: 𝖫𝖾𝗅𝗈𝗎𝖼𝗁 Tech Info",
             "chat_desc": "اتركه كما هو",
             "success": "*֎╎تــم✅*",
             "dot": "اتركه كما هو",
